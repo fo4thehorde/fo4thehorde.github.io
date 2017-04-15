@@ -1,0 +1,19 @@
+@media(max-width:1024px){
+    #content_bg {
+        padding: 30px;
+        min-height: 600px;
+    }
+    
+    #work-link {
+        margin: 0px;
+    }
+    
+    #links-outer {
+        margin-top: 30px;
+        text-align: left;
+    }
+    
+    .main-btn {
+        padding: 0px;
+    }
+}
