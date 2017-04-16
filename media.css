@@ -1,3 +1,4 @@
+/*для смартфонов*/
 @media(max-width:1024px){
     #content_bg {
         padding: 30px;
@@ -17,4 +18,16 @@
     .main-btn {
         padding: 0px;
     }
+}
+
+/*для ноутов*/
+@media(min-width:1366px){
+    #content_bg {
+       width: 1016px;
+    }
+    
+    .contact-links{
+        display: inline-block;
+    }
+
 }
